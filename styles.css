@@ -26,6 +26,7 @@ body {
     padding: 8px;
     color: black;
     text-decoration: none;
+    font-size: 18px;
 }
 .nav-container a:hover {
     color: white;
@@ -42,8 +43,8 @@ body {
 .hero-container .title {
     display: flex;
     flex-direction: column;
-    position: absolute;
-    left: 8px;
+    position: relative;
+    left: 70px;
 }
 .hero-container .title .jairo {
     width: 86px;
