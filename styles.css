@@ -15,6 +15,8 @@ body {
     margin-right: 1rem;
 }
 .nav-container {
+    margin-top: 30px;
+    margin-bottom: 30px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -31,7 +33,7 @@ body {
 
 .hero-container{
     width: 100%;
-    margin-top: 40px;
+    margin-top: 50px;
     display: flex;
     align-items: center;
     justify-content: flex-end;
@@ -41,7 +43,7 @@ body {
     display: flex;
     flex-direction: column;
     position: absolute;
-    left: 6px;
+    left: 8px;
 }
 .hero-container .title .jairo {
     width: 86px;
@@ -54,5 +56,5 @@ body {
 }
 .hero-container img {
     width: 250px;
-    margin-right: 10px;
+    margin-right: 15px;
 }
